@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #3ddad7;
+    --color-ring: #777a7e;
+    --color-darkBorder: #23283b;
+    --color-bgDark: #0d1117;
+    --color-chatBg: #161b22;
+    --color-chatBorder: #30363d;
+    --color-chatHover: #21262d;
+    --color-primaryBg: #181c24;
+    --color-textGrFrom: #34a5a4;
+    --color-textGrTo: #5a6ed3;
+    --color-btnGrFrom: #1d6968;
+    --color-btnGrTo: #2d386e;
+    --color-btnGrFromLight: #e5e7eb;
+    --color-bgLight: #f3f4f6;
+    --color-btnGrToLight: #cfd4dc;
+    --color-btnGrFromLightHover: #d1d5db;
+    --color-btnGrFromHover: #6078ea;
+    --color-textGrayMedium: #99a1af;
+    --color-backBtnGrFromLight: #080C1D;
+    --color-backBtnGrToLight: #7E808C;
+}
